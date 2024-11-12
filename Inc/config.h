@@ -25,7 +25,7 @@
 #define TRIGGER_DEFAULT 2020
 #define _T 2028
 #define CAL_BAT_V 256
-#define CAL_V 25
+#define CAL_V 60
 #define CAL_I 38LL<<8
 #define INDUCTANCE 6LL
 #define RESISTANCE 40LL
